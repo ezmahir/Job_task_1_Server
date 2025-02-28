@@ -1,11 +1,11 @@
 {
   "name": "trello_clone_ezmahir",
   "version": "1.0.0",
-  "description": "This repo is to replicate trello's task management by react. Simply exist to help mogASSSS (ezmahir)",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
